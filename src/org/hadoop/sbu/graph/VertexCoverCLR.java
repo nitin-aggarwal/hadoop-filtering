@@ -31,7 +31,7 @@ import org.hadoop.sbu.files.HDFSStats;
 public class VertexCoverCLR  extends Configured implements Tool{
 
 	// File in "/user/USER/source" on HDFS to be processed
-	public static String[] filenames = {"edges1","Graph1","Graph2","Graph3"};
+	public static String[] filenames = {"edges"};
 	public static long blockSize = 2500000;
 	public static String user = HDFSStats.getUserName();
 	
