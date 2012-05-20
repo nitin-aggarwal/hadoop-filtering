@@ -1,0 +1,18 @@
+***** Processing File: edges ****************
+Vertex Cover vertices: 8
+Time Taken: 0.0030 seconds
+***** Processing File: edges1 ****************
+Vertex Cover vertices: 10000
+Time Taken: 0.494 seconds
+***** Processing File: Graph1 ****************
+Vertex Cover vertices: 100000
+Time Taken: 1.552 seconds
+***** Processing File: Graph2 ****************
+Vertex Cover vertices: 999999
+Time Taken: 19.995 seconds
+***** Processing File: Graph3 ****************
+Vertex Cover vertices: 1999491
+Time Taken: 25.267 seconds
+***** Processing File: Graph4 ****************
+Vertex Cover vertices: 9999951
+Time Taken: 158.503 seconds
